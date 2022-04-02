@@ -86,7 +86,7 @@
   .nav__mob {
     position: absolute;
     top: 42px;
-    right: 100%;
+    left: 100%;
   }
   .nav__item ul > span {
     display: block;
