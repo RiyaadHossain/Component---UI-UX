@@ -1,10 +1,11 @@
-import React from "react";
-import { Navbar } from "./component/indexcompo";
+import "./App.css";
+import { List1, Navbar } from "./component/indexcompo";
 
 const App = () => {
   return (
     <div>
-      <Navbar />
+      {/* <Navbar /> */}
+      <List1 />
     </div>
   );
 };
