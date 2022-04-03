@@ -1,10 +1,10 @@
 import React from "react";
-import { Navbar } from "./component/indexcompo";
+import { List, Navbar } from "./component/indexcompo";
 
 const App = () => {
   return (
     <div>
-      <Navbar />
+      <List />
     </div>
   );
 };
